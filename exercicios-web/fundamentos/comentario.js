@@ -12,3 +12,6 @@ console.log('Linha 2')
  * múliplas linhas
  */
 console.log('Linha 3')
+
+//    <!--comentário html-->
+/*comentário css*/
