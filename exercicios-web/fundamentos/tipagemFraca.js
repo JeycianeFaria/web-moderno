@@ -6,6 +6,8 @@ qualquer = 3.1516
 console.log(qualquer)
 console.log(typeof qualquer)
 
+//JS é uma linguagem de tipagem fraca
+
 // Evitar nome genéricos e siglas
 let valor = ''
 let numero = 1
